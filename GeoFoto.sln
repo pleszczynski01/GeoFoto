@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoFoto", "GeoFoto\GeoFoto.csproj", "{447E071C-D730-46A3-9AFB-5184D89A5B58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{447E071C-D730-46A3-9AFB-5184D89A5B58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{447E071C-D730-46A3-9AFB-5184D89A5B58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{447E071C-D730-46A3-9AFB-5184D89A5B58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{447E071C-D730-46A3-9AFB-5184D89A5B58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D55AE9D2-0CD5-42EB-9C13-F312F4843440}
+	EndGlobalSection
+EndGlobal
